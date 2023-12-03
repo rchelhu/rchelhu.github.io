@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.49ef351a.css",
+    "main.css": "./static/css/main.75ce7c26.css",
     "main.js": "./static/js/main.21c03447.js",
     "static/js/787.27b7d6c0.chunk.js": "./static/js/787.27b7d6c0.chunk.js",
     "static/media/golf-logo.png": "./static/media/golf-logo.05c5aa77c35d3bf5f187.png",
@@ -12,12 +12,12 @@
     "static/media/google-logo.png": "./static/media/google-logo.14afc587f30c824437e3.png",
     "static/media/email-logo.png": "./static/media/email-logo.67bda94140af311d041f.png",
     "index.html": "./index.html",
-    "main.49ef351a.css.map": "./static/css/main.49ef351a.css.map",
+    "main.75ce7c26.css.map": "./static/css/main.75ce7c26.css.map",
     "main.21c03447.js.map": "./static/js/main.21c03447.js.map",
     "787.27b7d6c0.chunk.js.map": "./static/js/787.27b7d6c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49ef351a.css",
+    "static/css/main.75ce7c26.css",
     "static/js/main.21c03447.js"
   ]
 }
