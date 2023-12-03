@@ -71,7 +71,14 @@
   width: 25px;
   height: auto;
   margin-right: 15px;
+  transition: transform 0.3s ease;
+
 }
+
+.social-logo:hover {
+  transform: translateY(-3px);
+}
+
 
 /* Media Queries */
 @media (max-width: 768px) {
