@@ -37,7 +37,7 @@ let navigate = useNavigate();
                         PORTFOLIO
                     </button>
                     <a
-                        href="./assets/resume.pdf"
+                        href="/resume.pdf"
                         className="back-button"
                         target="_blank"
                         rel="noopener noreferrer"
