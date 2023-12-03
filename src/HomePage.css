@@ -1,0 +1,105 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+.profile-section {
+  text-align: center;
+  max-width: 600px;
+}
+
+.profile-picture {
+  width: 390px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.text-and-buttons h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.text-and-buttons p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #333;
+  text-align: left;
+}
+
+.button-container {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.back-button {
+  display: inline-flex; /* Changed to inline-flex for better alignment */
+  align-items: center;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: white;
+  color: #333;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, transform 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: black;
+  color: white;
+  transform: translateY(-3px);
+}
+
+.text-and-buttons {
+  padding-left: 20px;
+}
+
+.personal-links {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.social-logo {
+  width: 25px;
+  height: auto;
+  margin-right: 15px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    height: auto;
+    padding: 20px;
+    align-items: center;
+  }
+
+  .profile-picture {
+    max-width: 200px;
+  }
+
+  .text-and-buttons h1 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+  .text-and-buttons p {
+    font-size: 0.9em;
+    text-align: center;
+  }
+
+  .button-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}

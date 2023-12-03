@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.container {
+  margin:20px;
+}
+
+.resume-container {
+  color: #333;
+  width: 100%;
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.work-experience {
+  margin: 70px;
+}
+
+.resume-header h1 {
+  font-size: 40px;
+  margin-top: -15px;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.resume-header p {
+  text-align: center;
+}
+
+.resume-header p {
+  font-size: 16px;
+  color: #666;
+}
+
+.resume-section-title {
+  font-size: 22px;
+  color: #333;
+}
+
+.resume-section-content p {
+  font-size: 16px;
+  margin: 4px 0;
+}
+
+.resume-section-content ul {
+  padding-left: 20px;
+}
+
+.resume-section-content ul li {
+  list-style-type: disc;
+  margin-bottom: 4px;
+}
+
+.work-experience {
+  display: flex;
+  align-items: center;
+}
+
+.company-logo-left {
+  width: 400px;
+  height: auto;
+  padding-right: 50px;
+}
+
+.interactive-world-logo-left {
+  width: 400px;
+  height: auto;
+  padding-right: 30px;
+}
+
+.recipethyme-logo-left {
+  width: 400px;
+  height: auto;
+  padding-right: 40px;
+}
+
+.company-logo-right {
+  width: 400px;
+  height: auto;
+  padding-left: 90px;
+  padding-right: 20px;
+}
+
+.comet-classifier-logo-right {
+  width: 400px;
+  height: auto;
+}
+
+.experience-content {
+  flex-grow: 1;
+}
+
+.title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.date {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.project-details h3 {
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.project-details-left {
+  margin-bottom: 6px;
+  /* padding-right: 20px; */
+}
+
+
+.skill-tag {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 5px;
+  color: #0366d6;
+  border: 2px solid #0366d6;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.skill-tag:hover {
+  transform: translateY(-5px);
+  background-color: #ebf9ff;
+}
+
+.back-arrow {
+  font-size: 18px; /* Slightly larger font size for the arrow */
+}
+
+.skills-list {
+  display: flex; /* Align tags in a row */
+  flex-wrap: wrap; /* Allow wrapping to next line */
+  justify-content: left;
+  margin-top: 20px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 930px) {
+  .container {
+      margin:20px;
+  }
+  .resume-container {
+    /* margin: 20px; */
+    padding: 10px;
+  }
+
+  .resume-header {
+      padding-top: 30px;
+  }
+
+  .work-experience {
+    margin: 50px 0;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .company-logo-left, 
+  .company-logo-right, 
+  .interactive-world-logo-left, 
+  .recipethyme-logo-left, 
+  .comet-classifier-logo-right {
+    width: 100%;
+    max-width: 330px;
+    height: auto;
+    margin: 20px;
+    padding: 0px;
+  }
+
+  .experience-content h2 {
+    flex-grow: 1;
+    text-align: center;
+  }
+  .experience-content p {
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  .resume-header h1 {
+    font-size: 30px;
+  }
+
+  .project-details ul li .project-details-left {
+    text-align: left;
+  }
+
+  .skill-tag {
+    padding: 8px 16px;
+    margin: 5px;
+    color: #0366d6;
+    border: 2px solid #0366d6;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: default;
+  }
+
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
+
+.underline-text {
+  text-decoration: underline;
+}
