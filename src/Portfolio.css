@@ -178,6 +178,22 @@
       padding-top: 30px;
   }
 
+  .resume-header h1 {
+    font-size: 26px;
+  }
+
+  .experience-content p, .title, .date {
+    font-size: 14px; /* Choose an appropriate size */
+  }
+
+  .project-details ul li {
+    font-size: 14px; /* Adjust this value as needed */
+  }
+
+  .project-details-left ul li {
+    font-size: 14px; /* Adjust this value as needed */
+  }
+
   .work-experience {
     margin: 50px 0;
     margin-top: 0px;
@@ -201,6 +217,7 @@
   .experience-content h2 {
     flex-grow: 1;
     text-align: center;
+    font-size: 18px;
   }
   .experience-content p {
     flex-grow: 1;
@@ -211,17 +228,13 @@
     font-size: 30px;
   }
 
-  .project-details ul li .project-details-left {
-    text-align: left;
-  }
-
   .skill-tag {
     padding: 8px 16px;
     margin: 5px;
     color: #0366d6;
     border: 2px solid #0366d6;
     border-radius: 10px;
-    font-size: 15px;
+    font-size: 13px;
     cursor: default;
   }
 
