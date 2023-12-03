@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rchelhu.github.io/static/css/main.ecedd04e.css",
-    "main.js": "/rchelhu.github.io/static/js/main.333ed76e.js",
-    "static/js/787.27b7d6c0.chunk.js": "/rchelhu.github.io/static/js/787.27b7d6c0.chunk.js",
-    "static/media/golf-logo.png": "/rchelhu.github.io/static/media/golf-logo.05c5aa77c35d3bf5f187.png",
-    "static/media/interactive-world-logo.png": "/rchelhu.github.io/static/media/interactive-world-logo.463309eeb0f5afb115e6.png",
-    "static/media/portrait.png": "/rchelhu.github.io/static/media/portrait.7525ae8e34edf57ab0ad.png",
-    "static/media/personal-website-logo.png": "/rchelhu.github.io/static/media/personal-website-logo.f8355e78f87e384edef1.png",
-    "static/media/recipe-thyme-logo.png": "/rchelhu.github.io/static/media/recipe-thyme-logo.e0d45dc2e1a33afc186a.png",
-    "static/media/comet-classifier-logo.png": "/rchelhu.github.io/static/media/comet-classifier-logo.88546d387d7cf942496a.png",
-    "static/media/google-logo.png": "/rchelhu.github.io/static/media/google-logo.14afc587f30c824437e3.png",
-    "static/media/email-logo.png": "/rchelhu.github.io/static/media/email-logo.67bda94140af311d041f.png",
-    "index.html": "/rchelhu.github.io/index.html",
-    "main.ecedd04e.css.map": "/rchelhu.github.io/static/css/main.ecedd04e.css.map",
-    "main.333ed76e.js.map": "/rchelhu.github.io/static/js/main.333ed76e.js.map",
-    "787.27b7d6c0.chunk.js.map": "/rchelhu.github.io/static/js/787.27b7d6c0.chunk.js.map"
+    "main.css": "./static/css/main.ecedd04e.css",
+    "main.js": "./static/js/main.21c03447.js",
+    "static/js/787.27b7d6c0.chunk.js": "./static/js/787.27b7d6c0.chunk.js",
+    "static/media/golf-logo.png": "./static/media/golf-logo.05c5aa77c35d3bf5f187.png",
+    "static/media/interactive-world-logo.png": "./static/media/interactive-world-logo.463309eeb0f5afb115e6.png",
+    "static/media/portrait.png": "./static/media/portrait.7525ae8e34edf57ab0ad.png",
+    "static/media/personal-website-logo.png": "./static/media/personal-website-logo.f8355e78f87e384edef1.png",
+    "static/media/recipe-thyme-logo.png": "./static/media/recipe-thyme-logo.e0d45dc2e1a33afc186a.png",
+    "static/media/comet-classifier-logo.png": "./static/media/comet-classifier-logo.88546d387d7cf942496a.png",
+    "static/media/google-logo.png": "./static/media/google-logo.14afc587f30c824437e3.png",
+    "static/media/email-logo.png": "./static/media/email-logo.67bda94140af311d041f.png",
+    "index.html": "./index.html",
+    "main.ecedd04e.css.map": "./static/css/main.ecedd04e.css.map",
+    "main.21c03447.js.map": "./static/js/main.21c03447.js.map",
+    "787.27b7d6c0.chunk.js.map": "./static/js/787.27b7d6c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecedd04e.css",
-    "static/js/main.333ed76e.js"
+    "static/js/main.21c03447.js"
   ]
 }
