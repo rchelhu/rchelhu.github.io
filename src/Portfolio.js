@@ -96,7 +96,7 @@ function Portfolio() {
           <p className="date">12/2023 - Present</p>
           <div className="project-details-left">
             <ul>
-              <li>Coded personal website using React.js from scratch (<a href="https://github.com/rchelhu/rchelhu.github.io" target="_blank" rel="noopener noreferrer">Github Link</a>)</li>
+              <li>Used React.js to create comprehensive personal website from scratch; optimized the site for desktop and mobile (<a href="https://github.com/rchelhu/rchelhu.github.io" target="_blank" rel="noopener noreferrer">Github Link</a>)</li>
               <li>Used Figma to develop a responsive, user-centric design that emphasizes ease of navigation and aesthetic appeal</li>
             </ul>
           </div>
