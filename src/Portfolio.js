@@ -141,7 +141,9 @@ function Portfolio() {
             </ul>
           </div>
           <div className="skills-list">
-            <SkillTag skill="HTML/CSS/Javascript" />
+            <SkillTag skill="HTML" />
+            <SkillTag skill="CSS" />
+            <SkillTag skill="Javascript" />
           </div>
         </div>
         <img src={golfLogo} alt="Golf" className="comet-classifier-logo-right" />

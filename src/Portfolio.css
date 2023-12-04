@@ -194,6 +194,10 @@
     font-size: 14px; /* Adjust this value as needed */
   }
 
+  .back-arrow {
+    font-size: 14px;
+  }
+
   .work-experience {
     margin: 50px 0;
     margin-top: 0px;
