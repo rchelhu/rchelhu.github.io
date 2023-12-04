@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9f168d64.css",
-    "main.js": "./static/js/main.1b830bd1.js",
+    "main.js": "./static/js/main.bbab6db2.js",
     "static/js/787.27b7d6c0.chunk.js": "./static/js/787.27b7d6c0.chunk.js",
     "static/media/golf-logo.png": "./static/media/golf-logo.05c5aa77c35d3bf5f187.png",
     "static/media/interactive-world-logo.png": "./static/media/interactive-world-logo.463309eeb0f5afb115e6.png",
@@ -13,11 +13,11 @@
     "static/media/email-logo.png": "./static/media/email-logo.67bda94140af311d041f.png",
     "index.html": "./index.html",
     "main.9f168d64.css.map": "./static/css/main.9f168d64.css.map",
-    "main.1b830bd1.js.map": "./static/js/main.1b830bd1.js.map",
+    "main.bbab6db2.js.map": "./static/js/main.bbab6db2.js.map",
     "787.27b7d6c0.chunk.js.map": "./static/js/787.27b7d6c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f168d64.css",
-    "static/js/main.1b830bd1.js"
+    "static/js/main.bbab6db2.js"
   ]
 }
